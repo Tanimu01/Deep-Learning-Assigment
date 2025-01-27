@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Deep-Learning-Assigment",
+			"path": "../../Deep-Learning-Assigment/Deep-Learning-Assigment"
+		},
+		{
+			"name": "Deep-Learning-Assigment",
+			"path": "../../Deep-Learning-Assigment/Deep-Learning-Assigment/Deep-Learning-Assigment"
+		},
+		{
+			"name": "ArewaDS-Deep-Learning",
+			"path": "../../../ArewaDS-Deep-Learning/ArewaDS-Deep-Learning/ArewaDS-Deep-Learning"
+		}
+	],
+	"settings": {}
+}
